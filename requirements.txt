@@ -1,0 +1,5 @@
+numpy
+soundcard
+soundfile
+whisperx
+ctranslate2
