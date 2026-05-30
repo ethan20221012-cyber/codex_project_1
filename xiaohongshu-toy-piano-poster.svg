@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660" role="img" aria-labelledby="title desc">
+  <title id="title">宝宝玩具琴数字谱小红书海报</title>
+  <desc id="desc">一张适合小红书发布的亲子音乐启蒙海报，包含小星星、两只老虎、玛丽有只小羊羔和划小船的数字谱与歌词。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF6D9"/>
+      <stop offset="42%" stop-color="#FFE6EF"/>
+      <stop offset="100%" stop-color="#DDF5FF"/>
+    </linearGradient>
+    <linearGradient id="piano" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF8FB3"/>
+      <stop offset="52%" stop-color="#FFC36E"/>
+      <stop offset="100%" stop-color="#7CD7C8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#C98FA0" flood-opacity="0.24"/>
+    </filter>
+    <style>
+      .font { font-family: 'Noto Sans CJK SC', 'Source Han Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+      .title { font-size: 62px; font-weight: 900; fill: #6B4A3D; letter-spacing: 2px; }
+      .subtitle { font-size: 30px; font-weight: 700; fill: #8B6556; }
+      .note { font-size: 25px; font-weight: 700; fill: #A06B5E; }
+      .card-title { font-size: 34px; font-weight: 900; fill: #6B4A3D; }
+      .score { font-size: 28px; font-weight: 900; fill: #4F6E7A; letter-spacing: 1px; }
+      .lyric { font-size: 26px; font-weight: 700; fill: #795B54; }
+      .tag { font-size: 23px; font-weight: 800; fill: #FFFFFF; }
+      .small { font-size: 22px; font-weight: 700; fill: #967167; }
+    </style>
+  </defs>
+
+  <rect width="1242" height="1660" rx="0" fill="url(#bg)"/>
+
+  <!-- 背景装饰：星星、云朵、音符、宝宝玩具元素 -->
+  <g opacity="0.78">
+    <circle cx="96" cy="150" r="56" fill="#FFF0A8"/>
+    <circle cx="1078" cy="222" r="76" fill="#D5F6FF"/>
+    <circle cx="1120" cy="1510" r="96" fill="#FFE0EC"/>
+    <circle cx="125" cy="1434" r="75" fill="#DFF8E7"/>
+    <path d="M230 110c20 0 34 14 39 31 9-6 22-8 34-3 20 8 29 31 19 50H172c-7-16 1-35 18-42 9-4 19-4 27 0 4-21 20-36 13-36z" fill="#FFFFFF" opacity="0.84"/>
+    <path d="M890 103c24 0 43 17 49 39 12-8 29-10 44-4 25 10 36 39 24 63H814c-9-21 2-45 23-54 11-5 24-5 35 0 5-26 24-44 18-44z" fill="#FFFFFF" opacity="0.8"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M1010 452c60-36 103 22 48 66-26 21-65 31-94 39" stroke="#FF9FBA" stroke-width="10"/>
+    <path d="M168 604c38-48 106-23 92 35-8 33-42 59-78 82" stroke="#8FD8D0" stroke-width="9"/>
+    <path d="M1004 980c43 8 70 40 63 75-7 36-50 56-92 47" stroke="#F6B85E" stroke-width="9"/>
+  </g>
+
+  <g class="font" transform="translate(0 0)">
+    <text x="621" y="116" text-anchor="middle" class="title">宝宝玩具琴小乐谱</text>
+    <text x="621" y="166" text-anchor="middle" class="subtitle">只有 1 2 3 4 5 6 7 + 高音 1’ 也能弹</text>
+
+    <g transform="translate(240 206)" filter="url(#shadow)">
+      <rect x="0" y="0" width="762" height="168" rx="42" fill="url(#piano)"/>
+      <circle cx="82" cy="84" r="34" fill="#FFF7EA" opacity="0.88"/>
+      <circle cx="680" cy="84" r="34" fill="#FFF7EA" opacity="0.88"/>
+      <g transform="translate(150 32)">
+        <rect x="0" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="64" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="128" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="192" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="256" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="320" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="384" y="0" width="58" height="105" rx="12" fill="#FFFFFF"/>
+        <rect x="448" y="0" width="58" height="105" rx="12" fill="#FFF7D7"/>
+        <text x="29" y="72" text-anchor="middle" class="note">1</text>
+        <text x="93" y="72" text-anchor="middle" class="note">2</text>
+        <text x="157" y="72" text-anchor="middle" class="note">3</text>
+        <text x="221" y="72" text-anchor="middle" class="note">4</text>
+        <text x="285" y="72" text-anchor="middle" class="note">5</text>
+        <text x="349" y="72" text-anchor="middle" class="note">6</text>
+        <text x="413" y="72" text-anchor="middle" class="note">7</text>
+        <text x="477" y="72" text-anchor="middle" class="note">1’</text>
+      </g>
+    </g>
+
+    <g transform="translate(105 412)">
+      <rect x="0" y="0" width="1032" height="68" rx="34" fill="#FF8FB3" opacity="0.92"/>
+      <text x="516" y="44" text-anchor="middle" class="tag">复制就能弹｜数字就是琴键｜1’ = 高音 1｜— = 延长一拍</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="76" y="520" width="1090" height="234" rx="34" fill="#FFFFFF" opacity="0.94"/>
+      <circle cx="111" cy="558" r="13" fill="#FFD45E"/>
+      <circle cx="145" cy="558" r="13" fill="#FF9FBA"/>
+      <circle cx="179" cy="558" r="13" fill="#8FD8D0"/>
+      <text x="106" y="614" class="card-title">⭐ 小星星</text>
+      <text x="106" y="664" class="score">谱：1 1 5 5 6 6 5 —｜4 4 3 3 2 2 1 —</text>
+      <text x="106" y="711" class="lyric">词：一闪一闪亮晶晶，满天都是小星星。</text>
+      <text x="835" y="640" class="small">睡前哄娃</text>
+      <path d="M960 600l18 36 40 6-29 28 7 40-36-19-36 19 7-40-29-28 40-6z" fill="#FFE16B" stroke="#F8B94A" stroke-width="5"/>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="76" y="790" width="1090" height="246" rx="34" fill="#FFFFFF" opacity="0.94"/>
+      <circle cx="111" cy="828" r="13" fill="#FFD45E"/>
+      <circle cx="145" cy="828" r="13" fill="#FF9FBA"/>
+      <circle cx="179" cy="828" r="13" fill="#8FD8D0"/>
+      <text x="106" y="884" class="card-title">🐯 两只老虎</text>
+      <text x="106" y="934" class="score">谱：1 2 3 1｜1 2 3 1｜3 4 5 —｜3 4 5 —</text>
+      <text x="106" y="981" class="lyric">词：两只老虎，两只老虎，跑得快，跑得快。</text>
+      <text x="848" y="912" class="small">宝宝最爱</text>
+      <g transform="translate(948 858)">
+        <circle cx="54" cy="54" r="49" fill="#FFC36E" stroke="#E6923E" stroke-width="5"/>
+        <circle cx="21" cy="13" r="17" fill="#FFC36E" stroke="#E6923E" stroke-width="5"/>
+        <circle cx="87" cy="13" r="17" fill="#FFC36E" stroke="#E6923E" stroke-width="5"/>
+        <path d="M37 29c8 10 25 10 34 0" stroke="#6B4A3D" stroke-width="5" fill="none"/>
+        <circle cx="38" cy="55" r="5" fill="#6B4A3D"/><circle cx="70" cy="55" r="5" fill="#6B4A3D"/>
+        <path d="M50 67l8 0-4 8z" fill="#6B4A3D"/>
+        <path d="M38 86c12 9 22 9 34 0" stroke="#6B4A3D" stroke-width="5" fill="none"/>
+      </g>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="76" y="1072" width="1090" height="246" rx="34" fill="#FFFFFF" opacity="0.94"/>
+      <circle cx="111" cy="1110" r="13" fill="#FFD45E"/>
+      <circle cx="145" cy="1110" r="13" fill="#FF9FBA"/>
+      <circle cx="179" cy="1110" r="13" fill="#8FD8D0"/>
+      <text x="106" y="1166" class="card-title">🐑 玛丽有只小羊羔</text>
+      <text x="106" y="1216" class="score">谱：3 2 1 2｜3 3 3 —｜2 2 2 —｜3 5 5 —</text>
+      <text x="106" y="1263" class="lyric">词：玛丽有只小羊羔，小羊羔，小羊羔。</text>
+      <text x="832" y="1194" class="small">入门练手</text>
+      <g transform="translate(950 1134)">
+        <ellipse cx="55" cy="67" rx="58" ry="42" fill="#F8FBFF" stroke="#BBD9E8" stroke-width="5"/>
+        <circle cx="28" cy="38" r="22" fill="#F8FBFF" stroke="#BBD9E8" stroke-width="5"/>
+        <circle cx="55" cy="28" r="24" fill="#F8FBFF" stroke="#BBD9E8" stroke-width="5"/>
+        <circle cx="84" cy="39" r="22" fill="#F8FBFF" stroke="#BBD9E8" stroke-width="5"/>
+        <circle cx="31" cy="68" r="4" fill="#6B4A3D"/><circle cx="78" cy="68" r="4" fill="#6B4A3D"/>
+        <path d="M45 82c9 8 20 8 29 0" stroke="#6B4A3D" stroke-width="4" fill="none"/>
+      </g>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="76" y="1354" width="1090" height="218" rx="34" fill="#FFFFFF" opacity="0.94"/>
+      <circle cx="111" cy="1392" r="13" fill="#FFD45E"/>
+      <circle cx="145" cy="1392" r="13" fill="#FF9FBA"/>
+      <circle cx="179" cy="1392" r="13" fill="#8FD8D0"/>
+      <text x="106" y="1448" class="card-title">🚣 划小船</text>
+      <text x="106" y="1498" class="score">谱：1 1 1 2 3 —｜3 2 3 4 5 —｜5 4 3 2 1 —</text>
+      <text x="106" y="1545" class="lyric">词：划呀划呀划小船，轻轻摇到梦里边。</text>
+      <path d="M905 1470c65 26 132 24 198 0-14 43-51 69-99 70-49 1-83-25-99-70z" fill="#9BD9E5" stroke="#5BAEC5" stroke-width="6"/>
+      <path d="M1000 1415v74" stroke="#D98A57" stroke-width="8"/>
+      <path d="M1000 1418l68 43h-68z" fill="#FFE16B" stroke="#F8B94A" stroke-width="5"/>
+    </g>
+
+    <text x="621" y="1626" text-anchor="middle" class="small">#玩具琴 #数字谱 #亲子陪玩 #音乐启蒙 #宝宝早教</text>
+  </g>
+</svg>
